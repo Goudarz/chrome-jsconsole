@@ -1,10 +1,10 @@
 {
   "appName": {
     "message": "JSconsole",
-    "description": "The name of the application"
+    "description": "این نام برنامه است"
   },
   "appDescription": {
-    "message": "A Swiss knife for all the problems that you can solve in console.",
-    "description": "The description of the application"
+    "message": "یک چاقویی سوئیسی برای تمام مشکلات که می توانید در کنسول حل کنید ترجمه شده به فارسی توسط گودرز جعفری.",
+    "description": "این توضیحات برنامه است"
   }
 }

@@ -3,7 +3,7 @@ var openURL = function openURL(url) {
 };
 var tweet = function tweet() {
   var text = escape(
-    "JSconsole - Load external JS libraries within developer console build by @squiroid https://jsconsole.github.io/ #js #console #chrome #extension"
+    "JSconsole - بارگذاری کتابخانه‌های خارجی #JS در کنسول دولپر به‌وسیله @squiroid ساخته شده https://jsconsole.github.io/ #console #chrome #extension"
   );
   var tweet_url = "https://twitter.com/intent/tweet?text=" + text;
   openURL(tweet_url);
